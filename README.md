@@ -4,6 +4,7 @@ Taking through the course above, I was able to learn what a systematic file orga
 
 
 ..
+
 To start the project,
 
-### npm start
+### `npm start`
